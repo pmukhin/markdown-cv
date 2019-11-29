@@ -9,15 +9,18 @@ Scala Developer, Software Engineer. Currently based in Singapore.
 <a href="pauri.lentonen@gmail.com">pauri.lentonen@gmail.com</a> | <a href="https://www.linkedin.com/in/pavel-mukhin/">LinkedIn Page</a> | +6587924950
 </div>
 
+## Summary
+2yrs with Scala • over 7yrs of exp • strong interest in FP • strong knowledge of Back-End development
+
 ## Currently
 
 Developing a big project at a Regulatory Complience company in Singapore.
 
 ## Specialized in
 
-[Scala](https://www.scala-lang.org/), Back-End, Functional Programming
+Functional [Scala](https://www.scala-lang.org/) • [Cats](https://typelevel.org/cats/) • [Cats-Effect](https://typelevel.org/cats-effect/) • Back-End • Functional Programming
 
-## Experience
+## Latest Experience
 `03/2019-now`
 __Sr. Software Eng. @ Tookitaki, Singapore__
 
@@ -39,7 +42,7 @@ Refactoring towards testability and performance optimisation, adopted new approa
 __Sr. Back-End Developer @ Lazada (Alibaba Group), Bangkok, Kingdom of Thailand__
 
 * • Developed smart marketing tools mostly in Go and sometimes in Python
-* • Built a pipeline exporting product feeds (up to 50GB/feed) for biggest advertisers such as Google & Criteo and services interacting directly with Google Shopping API
+* • Redesigned all the advertising tooling for exporting product feeds (up to 50GB/feed). Made use of Scala, Spark and ODPS SQL (on top of Alicloud).
 
 `01/2016-07/2017, 1yr7ms`
 __Back-End Developer @ Coc Coc, Hanoi, Vietnam__
@@ -67,8 +70,21 @@ __Information Technology (Incomplete) @ LETI, St.Petersburg, Russia__
 
 Aborted pursuing my degree due to necessity of working. Planning to achieve Bc.S in near future.
 
-<!-- ### Footer
+`11/2018`
+__Functional Programming in Haskell by Computer Science Center__
+[Certificate](https://stepik.org/cert/194825)
 
+`10/2017`
+__Algorithms, Theory and Practice by Computer Science Center__
+[Certificate](https://stepik.org/cert/73488)
+
+`10/2017`
+__Data Structures by UC San Diego & HSE__
+[Certificate](https://www.coursera.org/account/accomplishments/certificate/QLRWNYP3K6AZ)
+
+
+
+<!-- ### Footer 
 Last updated: November 2019 -->
 
 
