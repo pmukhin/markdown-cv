@@ -22,7 +22,7 @@ Functional [Scala](https://www.scala-lang.org/) • [Cats](https://typelevel.org
 
 ## Latest Experience
 `03/2019-now`
-__Sr. Software Eng. @ Tookitaki, Singapore__
+__Software Eng. @ Tookitaki, Singapore__
 
 Developing an AI platform which helps banks catch fraudulent transactions, in Scala.
 
@@ -31,20 +31,20 @@ Developing an AI platform which helps banks catch fraudulent transactions, in Sc
 * • Broke the codebase down into a set of composable libraries, including complex AAA (authorization, authentication, accounting)
 * • Extended the Back-End team by filtering and interviewing candidates
 
-`04/2018-03/2019, 1yr`
-__Sr. Software Eng. @ Agoda, Bangkok, Kingdom of Thailand__
+`04/2018-03/2019`
+__Software Eng. @ Agoda, Bangkok, Kingdom of Thailand__
 
 Supplier integration platform development and optimisation, primarily in Scala.
 
 Refactoring towards testability and performance optimisation, adopted new approaches such as Domain Driven Design and functional programming.
 
-`08/2017-03/2018, 8ms`
+`08/2017-03/2018`
 __Sr. Back-End Developer @ Lazada (Alibaba Group), Bangkok, Kingdom of Thailand__
 
 * • Developed smart marketing tools mostly in Go and sometimes in Python
 * • Redesigned all the advertising tooling for exporting product feeds (up to 50GB/feed). Made use of Scala, Spark and ODPS SQL (on top of Alicloud).
 
-`01/2016-07/2017, 1yr7ms`
+`01/2016-07/2017`
 __Back-End Developer @ Coc Coc, Hanoi, Vietnam__
 
 - • Covered frontend part with integration and smoke tests
@@ -53,13 +53,13 @@ __Back-End Developer @ Coc Coc, Hanoi, Vietnam__
 - • Introduced Go as a part of company's technology pool
 - • Rewrote performance-critical parts in Go to improve user experience
 
-`03/2015-01/2016, 10ms`
+`03/2015-01/2016`
 __Back-End Developer @ 220Volt, Team Lead, St.Petersburg, Russia__
 
 - • Total redesign of a VBulletin-based old-fashioned forum system into a modern multi-service application
 - • Leading a team of 4
 
-`03/2014-12/2014, 10ms`
+`03/2014-12/2014`
 __Back-End Developer @ Tattoo Media, St.Petersburg, Russia__
 
 Developing back-end part of an online-store framework (based on OpenCart). 
@@ -81,7 +81,6 @@ __Algorithms, Theory and Practice by Computer Science Center__
 `10/2017`
 __Data Structures by UC San Diego & HSE__
 [Certificate](https://www.coursera.org/account/accomplishments/certificate/QLRWNYP3K6AZ)
-
 
 
 <!-- ### Footer 
