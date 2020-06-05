@@ -6,28 +6,36 @@ title: Pavel Mukhin's CV
 Scala Developer, Software Engineer. Currently based in Singapore.
 
 <div id="webaddress">
-<a href="pauri.lentonen@gmail.com">pauri.lentonen@gmail.com</a> | <a href="https://www.linkedin.com/in/pavel-mukhin/">LinkedIn Page</a> | +6587924950
+<a href="pauri.lentonen@gmail.com">pauri.lentonen@gmail.com</a> | <a href="https://www.linkedin.com/in/pavel-mukhin/">LinkedIn Page</a> | +31687308174
 </div>
 
 ## Summary
-2yrs with Scala • over 7yrs of exp • strong interest in FP • strong knowledge of Back-End development
+3yrs with Scala • over 7yrs of exp • strong interest in FP • strong knowledge of Back-End development • Distributed Systems
 
 ## Currently
 
-Developing a big project at a Regulatory Complience company in Singapore.
+Working in a field of distributed systems at New Motion B.V. (part of Shell Group) in Amsterdam, Netherlands
 
 ## Specialized in
 
 Functional [Scala](https://www.scala-lang.org/) • [Cats](https://typelevel.org/cats/) • [Cats-Effect](https://typelevel.org/cats-effect/) • Back-End • Functional Programming
 
 ## Latest Experience
-`03/2019-now`
+`03/2020-now`
+__Software Eng. @ The New Motion B.V., Amsterdam, Netherlands__
+
+Developing software to control and maintain a fleet of EV chargers.
+
+* • Developing microservices with `ZIO`, `cats` and `gRPC`
+* • Turning a single-instance monolithic application into a reliable distributed system
+
+`03/2019-03/2020`
 __Software Eng. @ Tookitaki, Singapore__
 
 Developing an AI platform which helps banks catch fraudulent transactions, in Scala.
 
-* • Introduced functional paradigm to the project. This resulted in improved stability, easier testing and made feature delivery smoother
-* • Introduced libraries for functional programming, such as cats and cats-effect
+* • Introduced the functional paradigm to the project. This resulted in improved stability, easier testing and made feature delivery smoother
+* • Introduced libraries for functional programming, such as `cats` and `cats-effect`
 * • Broke the codebase down into a set of composable libraries, including complex AAA (authorization, authentication, accounting)
 * • Extended the Back-End team by filtering and interviewing candidates
 
